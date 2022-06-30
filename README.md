@@ -7,6 +7,8 @@ https://github.com/Unity-Technologies/ml-agents/blob/release_19_docs/docs/Instal
 Para los objetos y decoración, se ha utilizado Robot@VirtualHome. Todo viene bien especificado en su GitHub:
 https://github.com/DavidFernandezChaves/RobotAtVirtualHome
 
+Después de crear un proyecto y haber instalado los dos últimos paquetes, basta con arrastrar la carpeta "Docking" dentro de "Assets".
+
 He subido sólo la configuración de red neuronal que mejores resultados ha obtenido: GAIL+BC.
 
 Para cualquier pregunta no duden en contactarme: albertolopezgorgojo@gmail.com
