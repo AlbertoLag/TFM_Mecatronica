@@ -1,0 +1,47 @@
+{
+    "AgentLogic": {
+        "checkpoints": [
+            {
+                "steps": 499983,
+                "file_path": "results\\GAIL_CU_NN1\\AgentLogic\\AgentLogic-499983.onnx",
+                "reward": -1.0000000447034836,
+                "creation_time": 1655817327.504996,
+                "auxillary_file_paths": [
+                    "results\\GAIL_CU_NN1\\AgentLogic\\AgentLogic-499983.pt"
+                ]
+            },
+            {
+                "steps": 999969,
+                "file_path": "results\\GAIL_CU_NN1\\AgentLogic\\AgentLogic-999969.onnx",
+                "reward": null,
+                "creation_time": 1655825315.3683329,
+                "auxillary_file_paths": [
+                    "results\\GAIL_CU_NN1\\AgentLogic\\AgentLogic-999969.pt"
+                ]
+            },
+            {
+                "steps": 1412726,
+                "file_path": "results\\GAIL_CU_NN1\\AgentLogic\\AgentLogic-1412726.onnx",
+                "reward": null,
+                "creation_time": 1655831895.587924,
+                "auxillary_file_paths": [
+                    "results\\GAIL_CU_NN1\\AgentLogic\\AgentLogic-1412726.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1412726,
+            "file_path": "results\\GAIL_CU_NN1\\AgentLogic.onnx",
+            "reward": null,
+            "creation_time": 1655831895.587924,
+            "auxillary_file_paths": [
+                "results\\GAIL_CU_NN1\\AgentLogic\\AgentLogic-1412726.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

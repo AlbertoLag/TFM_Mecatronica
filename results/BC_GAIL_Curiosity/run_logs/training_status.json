@@ -1,0 +1,47 @@
+{
+    "AgentLogic": {
+        "checkpoints": [
+            {
+                "steps": 499986,
+                "file_path": "results\\Gail_BC_Cu_NN3\\AgentLogic\\AgentLogic-499986.onnx",
+                "reward": -0.09960014497240384,
+                "creation_time": 1654952451.8634446,
+                "auxillary_file_paths": [
+                    "results\\Gail_BC_Cu_NN3\\AgentLogic\\AgentLogic-499986.pt"
+                ]
+            },
+            {
+                "steps": 999974,
+                "file_path": "results\\Gail_BC_Cu_NN3\\AgentLogic\\AgentLogic-999974.onnx",
+                "reward": 4.834855211834455,
+                "creation_time": 1654960707.2019262,
+                "auxillary_file_paths": [
+                    "results\\Gail_BC_Cu_NN3\\AgentLogic\\AgentLogic-999974.pt"
+                ]
+            },
+            {
+                "steps": 1020584,
+                "file_path": "results\\Gail_BC_Cu_NN3\\AgentLogic\\AgentLogic-1020584.onnx",
+                "reward": 4.7839333224110305,
+                "creation_time": 1654961081.6494179,
+                "auxillary_file_paths": [
+                    "results\\Gail_BC_Cu_NN3\\AgentLogic\\AgentLogic-1020584.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1020584,
+            "file_path": "results\\Gail_BC_Cu_NN3\\AgentLogic.onnx",
+            "reward": 4.7839333224110305,
+            "creation_time": 1654961081.6494179,
+            "auxillary_file_paths": [
+                "results\\Gail_BC_Cu_NN3\\AgentLogic\\AgentLogic-1020584.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
