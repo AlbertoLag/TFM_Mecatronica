@@ -11,5 +11,8 @@ Después de crear un proyecto y haber instalado los dos últimos paquetes, basta
 
 He subido sólo la configuración de red neuronal que mejores resultados ha obtenido: GAIL+BC.
 
+El vídeo recopilatorio con todas las simulaciones es el siguiente:
+https://bit.ly/TFM_Video_AlbertoLAG
+
 Para cualquier pregunta no duden en contactarme: albertolopezgorgojo@gmail.com
 
